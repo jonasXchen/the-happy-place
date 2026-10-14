@@ -68,7 +68,9 @@ Refunds use Stripe's original payment method. Cumulative refund accounting handl
 
 Set `RESEND_API_KEY`, a verified `EMAIL_FROM`, and a random `CRON_SECRET` of at least 32 characters. `/api/cron` requires `Authorization: Bearer <CRON_SECRET>`. It expires unused points, reconciles overdue Stripe reservations, and delivers up to 30 queued emails per invocation. Retries use provider idempotency keys. Marketing jobs recheck subscription status before delivery.
 
-[vercel.json](vercel.json) requests maintenance every five minutes. Choose a hosting plan or scheduler that supports this interval. Vercel supplies the cron secret header automatically; see [Vercel's cron documentation](https://vercel.com/docs/cron-jobs/manage-cron-jobs). Other schedulers must supply the same bearer header. Monitor notification failures under Settings. Payment confirmation is independent of email delivery.
+[vercel.json](vercel.json) schedules maintenance once daily at midnight UTC, during the 8am hour in Singapore. This schedule works with Vercel Hobby, whose cron jobs run at most once daily and can start anywhere within the scheduled hour; see [Vercel's scheduling limits](https://vercel.com/docs/cron-jobs/usage-and-pricing). Vercel supplies the cron secret header automatically.
+
+With the daily schedule, queued emails are processed only once a day, up to 30 per invocation. A larger queue takes additional runs to drain. Stripe webhooks still confirm payments and release expired Checkout reservations when their events arrive, but maintenance recovery for missed events and reservations without a Stripe session waits for the next run. For timely emails and recovery, configure an external scheduler to send a GET request to `https://your-domain/api/cron` every five minutes with `Authorization: Bearer <CRON_SECRET>`, or use a Vercel plan that supports `*/5 * * * *`. Only restore that expression in `vercel.json` after changing plans. Monitor notification failures under Settings. Payment confirmation is independent of email delivery.
 
 ## Owner guide
 
