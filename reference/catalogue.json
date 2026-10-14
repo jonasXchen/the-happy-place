@@ -1,0 +1,452 @@
+[
+  {
+    "slug": "seraphina-curved-sofa",
+    "name": "Seraphina Curved Sofa",
+    "priceCents": 339000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Sofas",
+    "room": "Living",
+    "description": "A curved modular sofa with an adjustable headrest, upholstered seating and slender black steel legs.",
+    "dimensions": "275 × 100 × 75 cm; larger configurations available",
+    "availability": "backorder",
+    "leadTime": "8-12 weeks",
+    "options": {
+      "Material": [
+        "Pet Friendly Performance Fabric",
+        "Bouclé",
+        "Premium Chenille Bouclé"
+      ],
+      "Colour": [
+        "Pet Friendly Performance Fabric/Ivory",
+        "Bouclé/Chantilly White",
+        "Premium Chenille Bouclé/French White",
+        "Premium Chenille Bouclé/Dove Grey"
+      ],
+      "Size": [
+        "3-4 Seater",
+        "4-5 Seater",
+        "5-6 Seater",
+        "6 Seater and Up (Multi)"
+      ]
+    },
+    "image": "/images/sofa.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/250cb0b6-3afc-41db-8487-bc5b00fabd48.png",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/12d9e4ff-fe26-4686-9043-c3baaabb7a87.png"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/seraphina-curved-sofa",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "shiloh-curved-sofa",
+    "name": "Shiloh Curved Sofa",
+    "priceCents": 319000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Sofas",
+    "room": "Living",
+    "description": "A softly curved sofa with an asymmetric profile and chaise extension, offered in several upholstery finishes.",
+    "dimensions": "260 × 100 × 76 cm or 290 × 105 × 76 cm",
+    "availability": "backorder",
+    "leadTime": "8-12 weeks",
+    "options": {
+      "Material": [
+        "Pet Friendly Performance Fabric",
+        "Bouclé",
+        "Matte Suede"
+      ],
+      "Colour": [
+        "Pet Friendly Performance Fabric/Ivory",
+        "Bouclé/Chantilily White",
+        "Matte Suede/Warm Grey"
+      ],
+      "Size": [
+        "4 Seater",
+        "5 Seater and Up"
+      ]
+    },
+    "image": "/images/shiloh.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/716565e1-1931-4769-a96e-f118e40d76b3.png",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/a96ad06a-2980-41d2-ac0d-66df8ca6eb20.png"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/shiloh-curved-sofa",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "celio-dining-table-integrated-turntable",
+    "name": "Celio Dining Table - Integrated Turntable",
+    "priceCents": 389000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Dining tables",
+    "room": "Dining",
+    "description": "A round dining table with a cone-shaped base and integrated turntable, offered in two sizes and multiple finishes.",
+    "dimensions": "Diameter 135 or 150 cm; height 75 cm",
+    "availability": "backorder",
+    "leadTime": "8-12 weeks",
+    "options": {
+      "Colour": [
+        "Oak Brown",
+        "Walnut Brown",
+        "Black"
+      ],
+      "Size": [
+        "135cm",
+        "150cm"
+      ],
+      "Marble Options": [
+        "Fendi White",
+        "Volaska White",
+        "Victoria Green",
+        "Verde Green (India)",
+        "Verde Alpi",
+        "Versace Green",
+        "Venetian Brown",
+        "Napoleon Black"
+      ]
+    },
+    "image": "/images/dining.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/neutral_simple_cozy_video_instagram_post.png",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/277bf54a-e4c6-4a30-83ee-632d1ade033d.png"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/celio-dining-table-integrated-turntable",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "soraya-push-back-sofa",
+    "name": "Soraya Push-Back Sofa",
+    "priceCents": 299000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Sofas",
+    "room": "Living",
+    "description": "An upholstered sofa with adjustable seat depth, backrest and armrest, available in modular configurations.",
+    "dimensions": "Multiple configurations; consult source dimension table",
+    "availability": "backorder",
+    "leadTime": "8-12 weeks",
+    "options": {
+      "Material": [
+        "Pet Friendly Performance Fabric",
+        "Bouclé",
+        "Custom Fabric"
+      ],
+      "Colour": [
+        "Pet Friendly Performance Fabric/Ivory",
+        "Bouclé/Chantilily White",
+        "Custom Colour"
+      ],
+      "Size": [
+        "2 Seater (Small)",
+        "2 Seater",
+        "2-3 Seater",
+        "3-5 Seater",
+        "Multi/L-Shape"
+      ]
+    },
+    "image": "/images/soraya.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/ddcf20f8-5de5-4a88-98e3-96b71702c752.png",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/4be7a86a-b92d-40b4-926d-ccdbfc5fd878.png"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/soraya-push-back-sofa",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "belen-dining-chair",
+    "name": "Belén Dining Chair",
+    "priceCents": 42500,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Dining chairs",
+    "room": "Dining",
+    "description": "A curved wooden dining chair with an upholstered seat, slanted backrest and tapered legs.",
+    "dimensions": "51 cm across; seat height 45 cm; overall height 77 cm",
+    "availability": "backorder",
+    "leadTime": "6-8 weeks",
+    "options": {
+      "Frame Colour/Upholstery": [
+        "Light Ash/Ivory Scratch Resistant Leather",
+        "Walnut/Black Scratch Resistant Leather",
+        "Walnut/Brown Scratch Resistant Leather",
+        "Black/Light Grey Scratch Resistant Leather"
+      ],
+      "Option": [
+        "Single",
+        "Set of Two",
+        "Set of Four",
+        "Set of Six"
+      ]
+    },
+    "image": "/images/chair.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202610/720x864/110d66a9-381e-41a4-a824-1832c911668f.png",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202610/720x864/6f359054-70c6-47e1-849b-2c5a0ee2e46f.png"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/belen-dining-chair",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "odelia-solid-wood-wavy-sideboard",
+    "name": "Odelia Solid Wood Wavy Sideboard",
+    "priceCents": 229000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Storage",
+    "room": "Living",
+    "description": "A sideboard in ash wood and plywood with wavy door detailing, three centre drawers and two doors.",
+    "dimensions": "180 × 45 × 82 cm",
+    "availability": "backorder",
+    "leadTime": "8-12 weeks",
+    "options": {
+      "Size": [
+        "Sideboard/Standard"
+      ],
+      "Type of Wood Stain (Body)": [
+        "Natural Wood",
+        "Walnut",
+        "Black"
+      ]
+    },
+    "image": "/images/sideboard.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202610/720x864/70d66dd8-b184-4c97-831d-a97a196163af.jpeg",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202610/720x864/7ae639a2-a0f9-4428-ae6c-df09fc0460f5.jpeg"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/odelia-solid-wood-wavy-sideboard",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "becca-dining-chair",
+    "name": "Becca Dining Chair",
+    "priceCents": 42500,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Dining chairs",
+    "room": "Dining",
+    "description": "A solid ash wood dining chair with a round upholstered seat, available in several frame and upholstery finishes.",
+    "dimensions": "49 cm across including back; seat depth 46 cm; height 78 cm",
+    "availability": "backorder",
+    "leadTime": "6-8 weeks",
+    "options": {
+      "Material": [
+        "Grained Bouclé",
+        "Matte Suede",
+        "Pet-Friendly Anti-Scratch"
+      ],
+      "Colour": [
+        "Grained Bouclé/ Snow White",
+        "Grained Bouclé/ Cream",
+        "Grained Bouclé/ Pepper",
+        "Grained Bouclé/ Speckled Terracotta",
+        "Matte Suede/ Ivory",
+        "Matte Suede/ Light Grey",
+        "Pet-Friendly Anti-Scratch/ Limestone Cream 75527-P1",
+        "Pet-Friendly Anti-Scratch/ Limestone Grey 75527-P2"
+      ],
+      "Colour (Frame)": [
+        "White-Wash",
+        "Natural Brown",
+        "Walnut",
+        "Black"
+      ]
+    },
+    "image": "/images/becca.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202407/720x864/img_7497.jpeg",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202407/720x864/img_7494.jpeg"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/becca-dining-chair",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "tristana-lounge-chair",
+    "name": "Tristana Lounge Chair",
+    "priceCents": 75000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Accent chairs",
+    "room": "Living",
+    "description": "A lounge chair with a reclined back, wide upholstered cushions, black wooden arms and tapered legs.",
+    "dimensions": "80 × 90 × 80 cm; seat height 42 cm",
+    "availability": "backorder",
+    "leadTime": "6-8 weeks",
+    "options": {
+      "Material/Colour": [
+        "Chenille/Polyester Mix Light Cream Mauve",
+        "Chenille/Leather Base Light Cream Black",
+        "Criss-Cross Polyester/Leather Light Grey Black"
+      ]
+    },
+    "image": "/images/lounge.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202609/720x864/551.jpeg",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202609/720x864/145.jpeg"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/tristana-lounge-chair",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "eliesse-curved-tv-console-sintered-travertine",
+    "name": "Eliesse Curved TV Console - Sintered Travertine",
+    "priceCents": 199000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Storage",
+    "room": "Living",
+    "description": "A curved sintered stone TV console with customisable storage compartments and several length options.",
+    "dimensions": "160–240 × 40 × 35 cm",
+    "availability": "backorder",
+    "leadTime": "8-12 weeks",
+    "options": {
+      "Size": [
+        "160cm/Two Doors",
+        "180cm/Three Doors",
+        "200cm/Three Doors",
+        "240cm/Four Doors"
+      ],
+      "Sintered Stone Options": [
+        "Roman Beige Travertine",
+        "Italian Beige Travertine (Subtle Veinings)",
+        "White Travertine"
+      ]
+    },
+    "image": "/images/console.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202511/720x864/img_9887.jpeg",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202511/720x864/black_white_square_interior_designer_logo.png"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/eliesse-curved-tv-console-sintered-travertine",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "romania-textured-rug-v2",
+    "name": "Romania Textured Rug - V2",
+    "priceCents": 45000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Rugs",
+    "room": "Living",
+    "description": "A textured polypropylene rug with a 14 mm pile, offered in multiple woven patterns and sizes.",
+    "dimensions": "140 × 200 cm through 300 × 400 cm",
+    "availability": "backorder",
+    "leadTime": "4-6 weeks",
+    "options": {
+      "Size": [
+        "140cm x 200cm",
+        "160cm x 230cm",
+        "200cm x 290cm",
+        "240cm x 340cm",
+        "300cm x 400cm"
+      ],
+      "Design": [
+        "32935-Canopy",
+        "33190A-Tidal",
+        "32937-Dunescape",
+        "32938-Frameworks",
+        "32932A-Dense",
+        "33177A-Rivers",
+        "33192C-Streams",
+        "33193C-Brushed"
+      ]
+    },
+    "image": "/images/rug.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202607/720x864/21202db4-6ef1-48b9-b8e8-31385d0a118a.png",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202607/720x864/0e7af8f0-2d3a-4afe-abdb-771b5f4268c0.png"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/romania-textured-rug-v2",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "chiara-travertine-coffee-table",
+    "name": "Chiara Travertine Coffee Table",
+    "priceCents": 249000,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Coffee tables",
+    "room": "Living",
+    "description": "An organic travertine coffee table supported by two stone arches, with custom stone options.",
+    "dimensions": "110 × 85 × 38 cm",
+    "availability": "backorder",
+    "leadTime": "8-12 weeks",
+    "options": {
+      "Design": [
+        "Organic/Arches Legs"
+      ],
+      "Size": [
+        "110cm x 85cm"
+      ],
+      "Stone Options": [
+        "Beige Travertine",
+        "Super White Travertine",
+        "White Travertine",
+        "Grey Travertine",
+        "Custom Stone/Limestone/Marble"
+      ]
+    },
+    "image": "/images/table.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202607/720x864/img_4071.jpeg",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202607/720x864/img_4051.jpeg"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/chiara-travertine-coffee-table",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  },
+  {
+    "slug": "ismeralda-travertine-tray",
+    "name": "Ismeralda Travertine Tray",
+    "priceCents": 10990,
+    "currency": "SGD",
+    "priceIncludesGST": true,
+    "priceScope": "Displayed base price only. Variant prices and purchasable combinations require owner verification.",
+    "category": "Home décor",
+    "room": "Living",
+    "description": "A Turkish travertine tray available in white or beige stone with honed or polished finishes.",
+    "dimensions": "30 × 20 × 1.8 cm",
+    "availability": "backorder",
+    "leadTime": "4-6 weeks",
+    "options": {
+      "Colour": [
+        "White Travertine",
+        "Beige Travertine"
+      ],
+      "Finishing": [
+        "Matte/Honed",
+        "Polished"
+      ]
+    },
+    "image": "/images/tray.jpg",
+    "imageUrls": [
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202405/720x864/4a2310_7b26a2be532c41ae8efa80a0a33a1971mv2.png",
+      "https://d1xz210606bzef.cloudfront.net/sites/files/thehappyplace/images/products/202606/720x864/59beb935-3031-4e32-9b81-8b18142f56db.png"
+    ],
+    "sourceUrl": "https://www.thehappyplace.sg/product/ismeralda-travertine-tray",
+    "verifiedAt": "2026-10-14",
+    "ownerReviewRequired": true
+  }
+]

@@ -1,0 +1,46 @@
+/* Brand colours and fonts come from src/lib/branding.ts and Admin > Settings.
+   Define derived colours on each theme scope so previews inherit their own palette. */
+:root,
+.site-theme,
+.brand-preview {
+  --white: #ffffff;
+  --surface-photo: var(--cream);
+  --surface-raised: var(--paper);
+  --surface-overlay: color-mix(in srgb, var(--paper) 94%, transparent);
+  --admin-bg: var(--paper);
+  --notice-bg: color-mix(in srgb, var(--cream) 90%, var(--sage));
+  --active-bg: var(--sage);
+  --line-subtle: color-mix(in srgb, var(--line) 65%, transparent);
+  --chart-colour: color-mix(in srgb, var(--olive) 50%, var(--sage));
+  --swatch-border: color-mix(in srgb, var(--white) 75%, transparent);
+  --shadow-colour: color-mix(in srgb, var(--ink) 14%, transparent);
+  --backdrop: color-mix(in srgb, var(--ink) 40%, transparent);
+  --image-caption-bg: rgb(29 27 23 / 85%);
+
+  /* Feedback colours retain their meaning across brand palettes. */
+  --success-bg: #e5e8d9;
+  --success-text: #4b543b;
+  --warning-bg: #f1e8d8;
+  --warning-text: #70551e;
+  --danger-bg: #f7e8e4;
+  --danger-text: #8b4939;
+  --danger-border: #a05543;
+
+  /* Photo overlays use a stable dark base to keep white copy readable. */
+  --hero-text: #ffffff;
+  --hero-shade-start: rgb(29 27 23 / 72%);
+  --hero-shade-middle: rgb(29 27 23 / 38%);
+  --hero-shade-end: rgb(29 27 23 / 12%);
+  --hero-shade-bottom: rgb(20 20 20 / 50%);
+  --hero-pagination-bg: rgb(29 27 23 / 50%);
+  --hero-marker: rgb(255 255 255 / 50%);
+  --hero-mobile-start: rgb(29 27 23 / 72%);
+  --hero-mobile-end: rgb(29 27 23 / 66%);
+  --hero-mobile-bottom: rgb(29 27 23 / 40%);
+
+  /* Shared layout and interaction defaults. */
+  --page-gutter: 6.5%;
+  --section-space: 4.875rem;
+  --control-height: 3rem;
+  --touch-target: 2.75rem;
+}
